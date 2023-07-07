@@ -1,3 +1,3 @@
 # Weather Prediction
 
-<img src='![Alt text](<Slide 16_9 - 1-1.png>)'>
+<img src='/Slide%2016_9%20-%201-1.png'>
