@@ -1,3 +1,3 @@
 # Weather Prediction
 
-<img src='/gambar readme.png'>
+<img src='/gambar readme.jpg'>
